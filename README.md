@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 This project analyzes the Foodpanda dataset (customers, orders, revenue, and delivery details) to extract meaningful insights and provide business recommendations.  
-Tools used: **Power BI**, **Python**, **Excel**.
+Tools used: **Power BI**, **Excel**.
 
 ---
 
